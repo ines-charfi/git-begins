@@ -1,0 +1,5 @@
+git clone<https://github.com/ines-charfi/git-begins>
+git add .
+git commit -m "hello"
+git push origin main
+
